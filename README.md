@@ -1,4 +1,4 @@
-# MLDS_Proyecto-Big-Data
+# MLDS_Proyecto-Big-Data-Topic-Modeling
 El proyecto toma en cuenta un conjunto de datos existente sobre tweets recopilados durante el primer día de la copa [FIFA World Cup Qatar 2022](https://www.kaggle.com/datasets/tirendazacademy/fifa-world-cup-2022-tweets/data) alojado en la plataforma Kaggle. Estos han sido etiquetados previamente de acuerdo al sentimiento que poseen.
 
 El objetivo del proyecto es principalmente académico, enfocado en aprender sobre procesamiento de lenguaje natural (PLN) y aplicar algunas herramientas de Big Data vistas en el curso. Para el desarrollo del proyecto se va a utilizar el modelado de tópicos con LDA, una técnica bastante conocida en el Procesamiento del Lenguaje Natural que permite construir temas basado en la distribución de las palabras en un texto y junto con esta técnica se va a intentar dar sentido a las agrupaciones de tópicos resultantes, teniendo también en cuenta las segmentaciones de tweets de acuerdo al sentimiento.
